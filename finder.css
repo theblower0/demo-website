@@ -67,11 +67,7 @@ header{
 
 body{
     display: flex;
-<<<<<<< HEAD
     height: 100%;
-=======
-    height: fit-content;
->>>>>>> 8ee0e57d7a7a05b6817dc60f7798ec7b24d4908c
     flex-direction: column;
     margin: 0px;
     color: rgb(207, 207, 207);
